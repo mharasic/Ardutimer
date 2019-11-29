@@ -96,7 +96,6 @@ void printVeryBigFont(int x, int y, int value, boolean invert){
       mask = mask << 1;
     }
   }
-  
 }
 
 
