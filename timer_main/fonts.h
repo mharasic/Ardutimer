@@ -73,3 +73,5 @@ const uint8_t* veryBigNumbers[]={vb_0,vb_1,vb_2,vb_3,vb_4,vb_5,vb_6,vb_7,vb_8,vb
 const uint8_t* smallNumbers[]={sm_0,sm_1,sm_2,sm_3,sm_4,sm_5,sm_6,sm_7,sm_8,sm_9};
 const uint8_t* bigNumbers[]={bg_0,bg_1,bg_2,bg_3,bg_4,bg_5,bg_6,bg_7,bg_8,bg_9};
 const uint8_t* bigCharacters[]={bg_A,bg_B,bg_C,bg_D,bg_E,bg_F,bg_G,bg_H,bg_I,bg_J,bg_K,bg_L,bg_M,bg_N,bg_O,bg_P,bg_Q,bg_R,bg_S,bg_T,bg_U,bg_V,bg_W,bg_X,bg_Y,bg_Z};
+
+const uint8_t* smallCharacters[]={sm_A,sm_blank,sm_blank,sm_blank,sm_E,sm_blank,sm_blank,sm_blank,sm_blank,sm_blank,sm_blank,sm_L,sm_blank,sm_blank,sm_blank,sm_P,sm_blank,sm_R,sm_blank,sm_blank,sm_blank,sm_blank,sm_blank,sm_blank,sm_Y,sm_blank};
